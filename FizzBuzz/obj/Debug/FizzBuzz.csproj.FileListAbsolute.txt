@@ -1,0 +1,8 @@
+C:\_examplecode\tddWorkshop\01-FizzBuzz\csharp-dotnetframework\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\_examplecode\tddWorkshop\01-FizzBuzz\csharp-dotnetframework\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\_examplecode\tddWorkshop\01-FizzBuzz\csharp-dotnetframework\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\_examplecode\tddWorkshop\01-FizzBuzz\csharp-dotnetframework\FizzBuzz\obj\Debug\FizzBuzz.csproj.AssemblyReference.cache
+C:\_examplecode\tddWorkshop\01-FizzBuzz\csharp-dotnetframework\FizzBuzz\obj\Debug\FizzBuzz.csproj.SuggestedBindingRedirects.cache
+C:\_examplecode\tddWorkshop\01-FizzBuzz\csharp-dotnetframework\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\_examplecode\tddWorkshop\01-FizzBuzz\csharp-dotnetframework\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\_examplecode\tddWorkshop\01-FizzBuzz\csharp-dotnetframework\FizzBuzz\obj\Debug\FizzBuzz.pdb

@@ -1,0 +1,12 @@
+C:\_examplecode\tddWorkshop\01-FizzBuzz\csharp-dotnetframework\FizzBuzzTest\bin\Debug\FizzBuzzTest.dll
+C:\_examplecode\tddWorkshop\01-FizzBuzz\csharp-dotnetframework\FizzBuzzTest\bin\Debug\FizzBuzzTest.pdb
+C:\_examplecode\tddWorkshop\01-FizzBuzz\csharp-dotnetframework\FizzBuzzTest\bin\Debug\FizzBuzz.exe
+C:\_examplecode\tddWorkshop\01-FizzBuzz\csharp-dotnetframework\FizzBuzzTest\bin\Debug\nunit.framework.dll
+C:\_examplecode\tddWorkshop\01-FizzBuzz\csharp-dotnetframework\FizzBuzzTest\bin\Debug\FizzBuzz.pdb
+C:\_examplecode\tddWorkshop\01-FizzBuzz\csharp-dotnetframework\FizzBuzzTest\bin\Debug\FizzBuzz.exe.config
+C:\_examplecode\tddWorkshop\01-FizzBuzz\csharp-dotnetframework\FizzBuzzTest\bin\Debug\nunit.framework.xml
+C:\_examplecode\tddWorkshop\01-FizzBuzz\csharp-dotnetframework\FizzBuzzTest\obj\Debug\FizzBuzzTest.csproj.AssemblyReference.cache
+C:\_examplecode\tddWorkshop\01-FizzBuzz\csharp-dotnetframework\FizzBuzzTest\obj\Debug\FizzBuzzTest.csproj.CoreCompileInputs.cache
+C:\_examplecode\tddWorkshop\01-FizzBuzz\csharp-dotnetframework\FizzBuzzTest\obj\Debug\FizzBuzzTest.csproj.CopyComplete
+C:\_examplecode\tddWorkshop\01-FizzBuzz\csharp-dotnetframework\FizzBuzzTest\obj\Debug\FizzBuzzTest.dll
+C:\_examplecode\tddWorkshop\01-FizzBuzz\csharp-dotnetframework\FizzBuzzTest\obj\Debug\FizzBuzzTest.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a9e86b17-258f-4426-afe3-96d779751380": {
+      "ProjectGuid": "a9e86b17-258f-4426-afe3-96d779751380",
+      "DisplayName": "FizzBuzz",
+      "ColorIndex": 0
+    },
+    "067456c0-086c-46a8-b37f-1405717b7bfc": {
+      "ProjectGuid": "067456c0-086c-46a8-b37f-1405717b7bfc",
+      "DisplayName": "FizzBuzzTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
